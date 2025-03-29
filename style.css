@@ -1,0 +1,12 @@
+
+/* Centered Text */
+.text {
+    height: 1200px;
+    width:2300px;
+    background: linear-gradient(to bottom, 
+        red, orange, yellow, green, blue, indigo, violet);
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
