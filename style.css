@@ -1,9 +1,8 @@
 /* Centered Text */
 .text {
-    height: 300px;
+    height:300px;
     width:1500px;
-    background: linear-gradient(to bottom, 
-        red, orange, yellow, green, blue, indigo, violet);
+    background: linear-gradient(to bottom, red, orange, yellow, green, blue, indigo, violet);
     font-size: 36px;
     font-weight: bold;
     color: white;
@@ -11,7 +10,7 @@
 }
 
 .text2 {
-    height: 300px;
+    height:300px;
     width:1500px;
     background: linear-gradient(to right, red 33%, yellow 33%, yellow 55%, green 55%, green 70%, blue 70%);
 
